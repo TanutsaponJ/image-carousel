@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Bangkok’s Chinatown",
+      "src": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1500&q=80",
+      "atl": "Image 1 for thailand"
+    },
+    {
+      "id": 2,
+      "title": "Phra Nang Beach, Krabi, Thailand",
+      "src": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1678&q=80",
+      "atl": "Image 2 for thailand"
+    },
+    {
+      "id": 3,
+      "title": "Loha Prasat, Bangkok, Thailand",
+      "src": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80",
+      "atl": "Image 3 for thailand"
+    },
+    {
+      "id": 4,
+      "title": "Grand Palace, Bangkok, Thailand",
+      "src": "https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80",
+      "atl": "Image 4 for thailand"
+    },
+    {
+      "id": 5,
+      "title": "Phi Phi Island, Thailand",
+      "src": "https://images.unsplash.com/photo-1587691254941-bbd1faa13154?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "atl": "Image 4 for thailand"
+    }
+  ]
+}
