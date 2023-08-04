@@ -1,6 +1,7 @@
 import "./Carousel.css";
 import { BsArrowLeftCircleFill, BsArrowRightCircleFill } from "react-icons/bs";
 import { useState } from "react";
+import { Header } from "./Header.jsx"; 
 
 export const Carousel = ({ data }) => {
   const [slide, setSlide] = useState(0);
@@ -23,12 +24,11 @@ export const Carousel = ({ data }) => {
       {data.map((item, i) => {
         return (
           <>
-            <h1
-              key={i}
-              className={title === i ? "title" : "title title-hidden"}
-            >
-              {item.title}
-            </h1>
+          <Header 
+          key={i}
+           title={item.title} 
+           classNameHeader={title === i ? "title" : "title title-hidden"}
+           />
             <img
               src={item.src}
               alt={item.alt}

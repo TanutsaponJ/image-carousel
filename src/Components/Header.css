@@ -1,0 +1,13 @@
+
+.title {
+    position: absolute;
+    color: gray;
+    font-size: 3.5rem;
+    top: 2rem;
+    font-family: "Noto Sans Thai", sans-serif;
+  }
+  
+  .title-hidden {
+    display: none;
+  }
+  
