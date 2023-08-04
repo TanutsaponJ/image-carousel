@@ -1,0 +1,10 @@
+.description {
+  position: absolute;
+  font-size: 1.2rem;
+  bottom: -2rem;
+  font-family: "Noto Sans Thai", sans-serif;
+}
+
+.description-hidden {
+  display: none;
+}

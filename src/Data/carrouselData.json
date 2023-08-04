@@ -4,30 +4,35 @@
       "id": 1,
       "title": "Bangkok’s Chinatown",
       "src": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1500&q=80",
+      "description": "Popular offerings include dim sum, oyster omelets, flat noodles in a pepper broth, and lots of fresh seafood. There are also many exotic fruits on offer, as well as homemade ice cream (we love coconut, but for something truly Thai, go for durian). Traffic is very congested in this area, so we recommend taking the MRT to Wat Mangkon MRT Station and walking for about 5 minutes to Yaowarat Road.",
       "atl": "Image 1 for thailand"
     },
     {
       "id": 2,
       "title": "Phra Nang Beach, Krabi, Thailand",
       "src": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1678&q=80",
+      "description": "Phranang Cave Beach or Phranang Cave Bay is the beautiful beach with Limestone Mountain and cliff. At the end of path will have cave that surrounding of white sand and clear sea. In the morning will be full of Thai and foreigner tourists.",
       "atl": "Image 2 for thailand"
     },
     {
       "id": 3,
       "title": "Loha Prasat, Bangkok, Thailand",
       "src": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80",
+      "description": "Loha Prasat means iron monastery or castle. It has five towers, the outer, middle and the center towers. It is 118 ft high and consists of 3 level multi- tiered structure and has 37 golden spires. There were lots of Monk's around who were all very friendly.",
       "atl": "Image 3 for thailand"
     },
     {
       "id": 4,
       "title": "Grand Palace, Bangkok, Thailand",
       "src": "https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80",
+      "description": "Located at the heart of Bangkok, Thailand, the Grand Palace was a former residence for King Rama I to King Rama V of the Rattanakosin Kingdom. Today, the place is used for hosting royal ceremonies and welcoming the king's guests, State guests, and other foreign dignitaries.",
       "atl": "Image 4 for thailand"
     },
     {
       "id": 5,
       "title": "Phi Phi Island, Thailand",
       "src": "https://images.unsplash.com/photo-1587691254941-bbd1faa13154?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "description": "Phi Phi comprises 6 small islands about 46 km south of Phuket. Fine sandy beaches give way to soaring limestone cliffs to form spectacular scenery. Add crystal-clear water, a refreshing lack of roads, plus a laidback lifestyle, and it's easy to see why Phi Phi is one of southern Thailand's most popular destinations.",
       "atl": "Image 4 for thailand"
     }
   ]
